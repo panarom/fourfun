@@ -1,0 +1,11 @@
+{
+  "name": "ivfun",
+  "version": "0.1.0",
+  "description": "functional web application server",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "matt.panaro@gmail.com",
+  "license": "MIT"
+}
